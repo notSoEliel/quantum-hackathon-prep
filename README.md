@@ -51,21 +51,21 @@ Curso intensivo de **10 días** para solidificar fundamentos en Computación Cu�
 <tr>
 <td><strong>2</strong></td>
 <td><a href="./Day_2_Qubits_and_Probability/">🎲 Bits Cuánticos y Probabilidad</a></td>
-<td>🔄 En progreso</td>
+<td>✅ Completado</td>
 <td>Qubits, estados probabilísticos, operadores</td>
 </tr>
 
 <tr>
 <td><strong>3</strong></td>
 <td><a href="./Day_3_First_Qiskit_Programs/">⚡ Primeros Programas con Qiskit</a></td>
-<td>⏳ Pendiente</td>
+<td>✅ Completado</td>
 <td>Hadamard, superposición, medición</td>
 </tr>
 
 <tr>
 <td><strong>4</strong></td>
 <td><a href="./Day_4_Visualization_and_Unit_Circle/">📊 Visualización y Operaciones</a></td>
-<td>⏳ Pendiente</td>
+<td>🔄 En progreso</td>
 <td>Círculo unitario, rotaciones, tomografía</td>
 </tr>
 
@@ -169,13 +169,13 @@ Construir un perfil de **"habilidad extraordinaria"** que abra oportunidades glo
 
 ### 🏆 **Logros Actuales**
 
-- ✅ **1/10 días completados** del curso QWorld
-- 📝 **1 notebook documentado** con conceptos fundamentales
+- ✅ **3/10 días completados** del curso QWorld
+- 📝 **3 notebook documentado** con conceptos fundamentales
 - 🎯 **Hackathon Uruguay** como objetivo inmediato
 
 ### 📈 **Próximos Hitos**
 
-- [ ] Completar fundamentos de qubits y probabilidad
+- [✅] Completar fundamentos de qubits y probabilidad
 - [ ] Implementar primer algoritmo cuántico
 - [ ] Crear visualización interactiva
 - [ ] Publicar primer artículo técnico
