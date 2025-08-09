@@ -65,14 +65,14 @@ Curso intensivo de **10 días** para solidificar fundamentos en Computación Cu�
 <tr>
 <td><strong>4</strong></td>
 <td><a href="./Day_4_Visualization_and_Unit_Circle/">📊 Visualización y Operaciones</a></td>
-<td>🔄 En progreso</td>
+<td>✅ Completado</td>
 <td>Círculo unitario, rotaciones, tomografía</td>
 </tr>
 
 <tr>
 <td><strong>5</strong></td>
 <td><a href="./Day_5_Entanglement_and_Teleportation/">🔗 Entrelazamiento y Teleportación</a></td>
-<td>⏳ Pendiente</td>
+<td>✅ Completado</td>
 <td>Entrelazamiento, codificación superdensa</td>
 </tr>
 
@@ -169,8 +169,8 @@ Construir un perfil de **"habilidad extraordinaria"** que abra oportunidades glo
 
 ### 🏆 **Logros Actuales**
 
-- ✅ **3/10 días completados** del curso QWorld
-- 📝 **3 notebook documentado** con conceptos fundamentales
+- ✅ **5/10 días completados** del curso QWorld
+- 📝 **5 notebook documentado** con conceptos fundamentales
 - 🎯 **Hackathon Uruguay** como objetivo inmediato
 
 ### 📈 **Próximos Hitos**
