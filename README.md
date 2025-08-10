@@ -79,7 +79,7 @@ Curso intensivo de **10 días** para solidificar fundamentos en Computación Cu�
 <tr>
 <td><strong>6</strong></td>
 <td><a href="./Day_6_Deutsch_Algorithm/">🎯 Algoritmo de Deutsch</a></td>
-<td>⏳ Pendiente</td>
+<td>✅ Completado</td>
 <td>Phase Kickback, compuertas clásicas</td>
 </tr>
 
@@ -169,8 +169,8 @@ Construir un perfil de **"habilidad extraordinaria"** que abra oportunidades glo
 
 ### 🏆 **Logros Actuales**
 
-- ✅ **5/10 días completados** del curso QWorld
-- 📝 **5 notebook documentado** con conceptos fundamentales
+- ✅ **6/10 días completados** del curso QWorld
+- 📝 **6 notebook documentado** con conceptos fundamentales
 - 🎯 **Hackathon Uruguay** como objetivo inmediato
 
 ### 📈 **Próximos Hitos**
